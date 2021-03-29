@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dingo/static/css/main.c12aaf24.chunk.css",
+    "main.css": "/Dingo/static/css/main.73f7341a.chunk.css",
     "main.js": "/Dingo/static/js/main.3d01fc00.chunk.js",
     "main.js.map": "/Dingo/static/js/main.3d01fc00.chunk.js.map",
     "runtime-main.js": "/Dingo/static/js/runtime-main.75efdb2a.js",
@@ -8,9 +8,9 @@
     "static/js/2.d9f06401.chunk.js": "/Dingo/static/js/2.d9f06401.chunk.js",
     "static/js/2.d9f06401.chunk.js.map": "/Dingo/static/js/2.d9f06401.chunk.js.map",
     "index.html": "/Dingo/index.html",
-    "precache-manifest.953f054e28fa221f4484d9e5adb295db.js": "/Dingo/precache-manifest.953f054e28fa221f4484d9e5adb295db.js",
+    "precache-manifest.8b07870a888d8034f8376c95e3e8e4de.js": "/Dingo/precache-manifest.8b07870a888d8034f8376c95e3e8e4de.js",
     "service-worker.js": "/Dingo/service-worker.js",
-    "static/css/main.c12aaf24.chunk.css.map": "/Dingo/static/css/main.c12aaf24.chunk.css.map",
+    "static/css/main.73f7341a.chunk.css.map": "/Dingo/static/css/main.73f7341a.chunk.css.map",
     "static/media/about.png": "/Dingo/static/media/about.71814be2.png",
     "static/media/about_overlay.png": "/Dingo/static/media/about_overlay.1add030b.png",
     "static/media/banner_bg.png": "/Dingo/static/media/banner_bg.402f4e30.png",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.75efdb2a.js",
     "static/js/2.d9f06401.chunk.js",
-    "static/css/main.c12aaf24.chunk.css",
+    "static/css/main.73f7341a.chunk.css",
     "static/js/main.3d01fc00.chunk.js"
   ]
 }
